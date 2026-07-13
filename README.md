@@ -1,2 +1,2 @@
-# remote_practice
-for practice in ssafy
+# Welcome!
+This is for practice in ssafy!
